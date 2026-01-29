@@ -14,32 +14,13 @@ This profile is dedicated to the **tools, scripts and workflows** I build for an
 
 ## 📊 GitHub Stats & Analytics
 
-### 👤 Profile Overview
-![Profile Views](https://komarev.com/ghpvc/?username=il-bonvi&label=Profile%20Views&color=0e75b6&style=flat)
-
-![](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
-
----
-
 ### 🔥 Activity & Streaks
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=il-bonvi&theme=dark&hide_border=false&dates=2024-01-01%20to%202026-12-31)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=il-bonvi&theme=github-dark&hide_border=true&area=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=il-bonvi&theme=dark&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=il-bonvi&theme=dark&hide_border=false)
 
 ---
 
-### � Languages & Technologies
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&theme=dark&hide_border=false&layout=compact&langs_count=10)
-
-![Most Used Languages - Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&theme=dark&hide_border=false&layout=donut&langs_count=10)
-
----
-
-### �📈 Summary Cards
+### 📈 Summary Cards
 
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=il-bonvi&theme=github_dark)
 
@@ -49,29 +30,42 @@ This profile is dedicated to the **tools, scripts and workflows** I build for an
 
 ---
 
-### 🏆 GitHub Achievements
+### 👤 Profile Overview
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=il-bonvi&theme=dark&no-frame=false&no-bg=true&margin-w=4&column=3&row=2)
+![Profile Views](https://komarev.com/ghpvc/?username=il-bonvi&label=Profile%20Views&color=0e75b6&style=flat)
 
----
-
-### � Repository Highlights
-
-![This Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=il-bonvi&repo=il-bonvi&theme=dark&hide_border=false&show_owner=true)
+![](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ---
 
-### ⚡ Additional Metrics
+## 🛠️ Tooling & Methods
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=il-bonvi&theme=dark&hide_border=false&layout=compact)
+- Time-series analysis of power, heart rate and GPS data  
+- Training load & intensity distribution modeling  
+- Power–duration and performance profiling  
+- Data cleaning, aggregation and automation  
+- Reproducible visualizations & reports  
 
-![Most Used Languages - Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&theme=dark&hide_border=false&layout=pie)
-
-![Contribution Rate](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+Primary focus: **clarity, repeatability, and signal over noise**.
 
 ---
 
-## �🔬 Focus Areas
+## 📦 Featured Repositories
+
+🔹 **cycling-performance-analysis**  
+End-to-end pipeline for cycling data analysis: preprocessing, metrics extraction and visualization.
+
+🔹 **training-load-tools**  
+Scripts and utilities for modeling training load and intensity distribution from endurance datasets.
+
+🔹 **analysis-utils**  
+Reusable helpers for time-series analysis, rolling metrics and plotting.
+
+*(Repositories focus on analysis and tooling, not athlete-specific content.)*
+
+---
+
+## 🔬 Focus Areas
 
 - Power-duration modeling  
 - Endurance performance metrics  
