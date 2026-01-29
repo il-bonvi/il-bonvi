@@ -41,5 +41,5 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
   </a>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/il-bonvi)
 
