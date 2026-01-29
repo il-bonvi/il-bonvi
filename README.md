@@ -14,15 +14,9 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 
 ## 📊 GitHub Stats & Analytics
 
-### 🔥 Activity & Streaks
-
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=il-bonvi&theme=dark&hide_border=false" width="90%" />
 </div>
-
----
-
-### 📈 Summary Cards
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=il-bonvi&theme=github_dark" width="45%" />
@@ -32,10 +26,6 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=il-bonvi&theme=github_dark" width="90%" />
 </div>
-
----
-
-### 💻 Languages Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=il-bonvi&theme=github_dark" width="45%" alt="Top Languages by Repos" />
