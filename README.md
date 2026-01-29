@@ -40,53 +40,14 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 
 ---
 
-## 🛠️ GitHub Readme Stats Buttons
+## 🛠️ Quick Access Buttons
 
 <div align="center">
-
-<!-- GitHub Readme Stats Buttons (from anuraghazra/github-readme-stats) -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=il-bonvi&show_icons=true&theme=dark" height="120" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&layout=compact&theme=dark" height="120" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=il-bonvi&repo=il-bonvi&theme=dark" height="120" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=il-bonvi&theme=dark" height="120" />
-</a>
-
-<!-- Add more buttons as needed from the official repo -->
-
+  <a href="https://github.com/il-bonvi/il-bonvi/issues">
+    <img src="https://img.shields.io/github/issues/il-bonvi/il-bonvi?color=blue&logo=github" height="30" alt="Issues" />
+  </a>
+  <a href="https://github.com/il-bonvi/il-bonvi/pulls">
+    <img src="https://img.shields.io/github/issues-pr/il-bonvi/il-bonvi?color=green&logo=github" height="30" alt="Pull Requests" />
+  </a>
 </div>
 
----
-
-<!--
-  ⚠️ Alcuni temi potrebbero non essere supportati o potrebbero cambiare nome nel tempo.
-  Prova con i temi ufficiali: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-  Esempio: &theme=dark
--->
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=il-bonvi&show_icons=true&theme=dark" height="120" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&layout=compact&theme=dark" height="120" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=il-bonvi&repo=il-bonvi&theme=dark" height="120" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=il-bonvi&theme=dark" height="120" />
-</a>
-</div>
-
-<!--
-  Se non vedi le card, prova a cambiare il tema in uno degli ufficiali sopra.
-  Se ancora non funziona, il servizio potrebbe essere temporaneamente down o rate-limited.
--->
