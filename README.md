@@ -38,11 +38,8 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 ### 💻 Languages Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&theme=dark&hide_border=false&layout=compact&langs_count=10&card_width=500" width="90%" alt="Top Languages by Commits" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=il-bonvi&theme=github_dark" width="90%" alt="Top Languages by Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=il-bonvi&theme=github_dark" width="45%" alt="Top Languages by Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=il-bonvi&theme=github_dark" width="45%" alt="Top Languages by Commits" />
 </div>
 
 ---
