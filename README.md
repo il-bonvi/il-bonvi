@@ -37,3 +37,30 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 ![Profile Views](https://komarev.com/ghpvc/?username=il-bonvi&label=Profile%20Views&color=0e75b6&style=flat)
 
 ![](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+---
+
+## 🛠️ GitHub Readme Stats Buttons
+
+<div align="center">
+
+<!-- GitHub Readme Stats Buttons (from anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=il-bonvi&show_icons=true&theme=dark" height="120" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&layout=compact&theme=dark" height="120" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=il-bonvi&repo=il-bonvi&theme=dark" height="120" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=il-bonvi&theme=dark" height="120" />
+</a>
+
+<!-- Add more buttons as needed from the official repo -->
+
+</div>
+
+---
