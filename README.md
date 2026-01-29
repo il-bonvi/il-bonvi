@@ -34,20 +34,12 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=il-bonvi&label=Profile%20Views&color=0e75b6&style=flat)
-
-![](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
----
-
-## 🛠️ Quick Access Buttons
-
 <div align="center">
-  <a href="https://github.com/il-bonvi/il-bonvi/issues">
-    <img src="https://img.shields.io/github/issues/il-bonvi/il-bonvi?color=blue&logo=github" height="30" alt="Issues" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=il-bonvi&label=Profile%20Views&color=0e75b6&style=flat" />
   <a href="https://github.com/il-bonvi/il-bonvi/pulls">
-    <img src="https://img.shields.io/github/issues-pr/il-bonvi/il-bonvi?color=green&logo=github" height="30" alt="Pull Requests" />
+    <img src="https://img.shields.io/github/issues-pr/il-bonvi/il-bonvi?color=green&logo=github" height="20" alt="Pull Requests" />
   </a>
 </div>
+
+![](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
