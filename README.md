@@ -26,11 +26,23 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=il-bonvi&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=il-bonvi&theme=github_dark&utc=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=il-bonvi&theme=github_dark&utc=false" width="45%" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=il-bonvi&theme=github_dark" width="90%" />
+</div>
+
+---
+
+### 💻 Languages Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&theme=dark&hide_border=false&layout=compact&langs_count=10&card_width=500" width="90%" alt="Top Languages by Commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&theme=dark&hide_border=false&layout=donut&langs_count=8&card_width=500" width="90%" alt="Top Languages by Repos" />
 </div>
 
 ---
