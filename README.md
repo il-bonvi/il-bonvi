@@ -15,7 +15,7 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 ## 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=il-bonvi&theme=dark&hide_border=false" width="90%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=il-bonvi&theme=github_dark" width="90%" />
 </div>
 
 <div align="center">
