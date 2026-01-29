@@ -8,7 +8,7 @@ On GitHub I share my work in **data science and analytics** applied to cycling p
 - reproducible data pipelines  
 - sports science analytics
 
-This profile is dedicated to the **tools, scripts and workflows** I build for analyzing performance data — the technical side of sports analytics.
+This profile is dedicated to the **tools, scripts, workflows & experiments** I build for analyzing performance data — the technical side of sports analytics.
 
 ---
 
@@ -27,49 +27,6 @@ This profile is dedicated to the **tools, scripts and workflows** I build for an
 ![Productive Time Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=il-bonvi&theme=github_dark&utc=true)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=il-bonvi&theme=github_dark)
-
----
-
-## 🛠️ Tooling & Methods
-
-- Time-series analysis of power, heart rate and GPS data  
-- Training load & intensity distribution modeling  
-- Power–duration and performance profiling  
-- Data cleaning, aggregation and automation  
-- Reproducible visualizations & reports  
-
-Primary focus: **clarity, repeatability, and signal over noise**.
-
----
-
-## 📦 Featured Repositories
-
-🔹 **cycling-performance-analysis**  
-End-to-end pipeline for cycling data analysis: preprocessing, metrics extraction and visualization.
-
-🔹 **training-load-tools**  
-Scripts and utilities for modeling training load and intensity distribution from endurance datasets.
-
-🔹 **analysis-utils**  
-Reusable helpers for time-series analysis, rolling metrics and plotting.
-
-*(Repositories focus on analysis and tooling, not athlete-specific content.)*
-
----
-
-## 🔬 Focus Areas
-
-- Power-duration modeling  
-- Endurance performance metrics  
-- Time-series preprocessing  
-- Data visualization for sport science  
-- Automation & reproducible analysis  
-
----
-
-## 📫 Contact & Links
-
-👉 **Contact:** [linktr.ee/bonvicin.coaching](https://linktr.ee/bonvicin.coaching)
 
 ---
 
