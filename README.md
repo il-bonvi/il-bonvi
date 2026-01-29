@@ -22,6 +22,37 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 
 ### 📈 Summary Cards
 
+#### OPZIONE 1: Grid Layout (Side-by-Side + Details)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=il-bonvi&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=il-bonvi&theme=github_dark&utc=true" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=il-bonvi&theme=github_dark" width="90%" />
+</div>
+
+---
+
+#### OPZIONE 2: Stack Verticale con Label
+
+**📊 Your Stats**
+
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=il-bonvi&theme=github_dark)
+
+**⏱️ Time Distribution**
+
+![Productive Time Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=il-bonvi&theme=github_dark&utc=true)
+
+**👤 Profile Overview**
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=il-bonvi&theme=github_dark)
+
+---
+
+#### OPZIONE 3: Compact Stack
+
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=il-bonvi&theme=github_dark)
 
 ![Productive Time Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=il-bonvi&theme=github_dark&utc=true)
