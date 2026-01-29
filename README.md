@@ -42,7 +42,7 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=il-bonvi&theme=dark&hide_border=false&layout=donut&langs_count=8&card_width=500" width="90%" alt="Top Languages by Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=il-bonvi&theme=github_dark" width="90%" alt="Top Languages by Repos" />
 </div>
 
 ---
