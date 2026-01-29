@@ -36,10 +36,7 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=il-bonvi&label=Profile%20Views&color=0e75b6&style=flat" />
-  <a href="https://github.com/il-bonvi/il-bonvi/pulls">
-    <img src="https://img.shields.io/github/issues-pr/il-bonvi/il-bonvi?color=green&logo=github" height="20" alt="Pull Requests" />
-  </a>
 </div>
 
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=il-bonvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/il-bonvi)
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=il-bonvi&show_icons=true&theme=radical)](https://github.com/il-bonvi)
 
