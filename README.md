@@ -35,7 +35,7 @@ This profile is dedicated to the **tools, scripts, workflows & experiments** I b
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=il-bonvi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=il-bonvi&label=Profile%20Views&color=0e75b6&style=plastic" />
 </div>
 
 [![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=il-bonvi&show_icons=true&theme=github_dark)](https://github.com/il-bonvi)
