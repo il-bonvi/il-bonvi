@@ -1,22 +1,4 @@
-# 🚴‍♂️ Cycling Performance Analysis & Data Science
-
-Hi 👋 I'm **Andrea**, Athletic Coach & Data Analyst.
-
-On GitHub I share my work in **data science and analytics** applied to cycling performance. Main focus areas:
-- data processing and modeling  
-- time-series analysis  
-- reproducible data pipelines  
-- sports science analytics
-
-This profile is dedicated to the **tools, scripts, workflows & experiments** I build for analyzing performance data — the technical side of sports analytics.
-
----
-
 ## 📊 GitHub Stats & Analytics
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=il-bonvi&theme=dark&hide_border=false" width="90%" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=il-bonvi&theme=github_dark" width="45%" />
